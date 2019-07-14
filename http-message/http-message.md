@@ -4,7 +4,7 @@ HTTP 메시지는 서버와 클라이언트 간에 데이터가 교환되는 방
 
 HTTP 메시지는 텍스트 정보이다. 메시지는 시작줄, 헤더, 본문으로 이루어진다. 각 블록은 빈 줄(CRLF)로 구분된다.
 
-![메시지_형식]()
+![메시지_형식](https://user-images.githubusercontent.com/40727649/61178740-4520e180-a62e-11e9-8fda-c892da76eaf6.png)
 
 
 
@@ -29,6 +29,8 @@ Accept : text/html
 Cookie : abcdefg?expire=1234123&v=1.3
 ...
 ```
+
+![헤더_예시](https://user-images.githubusercontent.com/40727649/61178741-48b46880-a62e-11e9-855f-91ba7ef77e1e.png)
 
 ### 본문
 
